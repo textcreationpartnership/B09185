@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The glory of the English nation: being the manner of the crowning of King William the III. and Queen Mary the II. in Westminster-Abby, on Thursday the 11th of April : also what passed in the Banqueting-House at White-Hall on the 11th day of May 1689.  At the delivery of the crown in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09185</idno>
+            <idno type="STC">Wing G877A</idno>
+            <idno type="STC">ESTC R224458</idno>
+            <idno type="EEBO-CITATION">64551290</idno>
+            <idno type="OCLC">ocm 64551290</idno>
+            <idno type="VID">184589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184589)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The glory of the English nation: being the manner of the crowning of King William the III. and Queen Mary the II. in Westminster-Abby, on Thursday the 11th of April : also what passed in the Banqueting-House at White-Hall on the 11th day of May 1689.  At the delivery of the crown in Scotland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Coronation --  Sources.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Coronation --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184589:1" rendition="simple:additions"/>
+            <head>THE GLORY of the Engliſh NATION: Being the Manner of the Crowning of King William the III. and Queen Mary the II.</head>
+            <head type="sub">In <hi>Weſtminſter-Abby,</hi> on <hi>Thurſday</hi> the <hi>11th.</hi> of <hi>April:</hi> Alſo what paſſed in the <hi>Banqueting-Houſe</hi> at <hi>White-Hall,</hi> on the <hi>11th.</hi> day of <hi>May,</hi> 1689. At the delivery of the Crown of <hi>SCOTLAND.</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>elaborate coronation scene in Westminster Abbey, with numbers marking points of interest</figDesc>
+                  <p>1 2 3 4 4 4 5 6 7 8 9 10 11 11 12 12 13 13 14 15 16</p>
+               </figure>
+            </p>
+            <div type="account">
+               <p>
+                  <hi>THurſday</hi> being the <hi>11th.</hi> of <hi>April,</hi> Their <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> came from <hi>Weſtminſter,</hi> Hall between Twelve and One of the Clock into the Palace-Yard<g ref="char:punc">▪</g> through the Gate Houſe, along the great Sanctuary to the Weſt end of the <hi>Abby,</hi> upon Blew Cloath which was ſpread upon the Ground<g ref="char:punc">▪</g> from the Throne in <hi>W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtminſter-ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> to the Great Steps in the Church.</p>
+               <p n="1">1. The Firſt that entred the <hi>Abby</hi> was the Drums and Eight Trumpets, Four a Breaſt. Then the Kettle Drums. Then Eight Trumpeters more Placed over the Door of the Weſt end of the Qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re; when being Seated, they began Four Sounds.</p>
+               <p n="2">2. The Six Clerks of <hi>Chancery</hi> came into the Quire, and aſcending the Steps leading to the T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rone divided them<g ref="char:EOLhyphen"/>ſelves to the Right and Left, and ſo fell Backwards to the farther end of the Seats, on both ſides of the Quire, towards the Weſt</p>
+               <p n="3">3. Then the Sheriffs and Aldermen of <hi>London,</hi> took their Seats under them The Maſters of <hi>Chancery</hi> were placed juſt aſcending the Steps. The Solicitor and At<g ref="char:EOLhyphen"/>torney General, their Places in order. The Lord Chief Baron, Lord Chief Juſtice of the <hi>Common-Pleas,</hi> Maſters of the <hi>Rolls,</hi> and Lord Chief Juſtice of the <hi>Kings-Bench,</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the top of the Steps near the Throne. The Children and Chope of <hi>Weſtminſter</hi> coming after, when they came to the Door of the Quire of the <hi>Abby,</hi> divided themſelves to the Right and Left, and ſo ſtood before the Souldiers in the <hi>Abby,</hi> receiving the KING and QUEEN; when they came up to them, they began an <hi>Anthem,</hi> and then walked before the KING and QUEEN into the Quire.</p>
+               <p n="4">4. Then th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> two Purſivants at Arms went forward to the top of the Steps, and directed all concerned where to ſit in their proper Places.</p>
+               <p n="5">5. The Peereſſes Aſcending the Steps leading to the Throne, were placed on the Northſide of the <hi>Abby,</hi> againſt which was Seated the Houſe of <hi>Commons.</hi>
+               </p>
+               <p n="6">6. The Peers Aſcended, and were placed on the South-ſide of the <hi>Abby.</hi> Then the KING and QUEEN Aſcending the Steps of the Throne, were Seated in two Chairs of State on the Throne; and being ſo Seated, all the Peers and Peereſſes ſat down; (none being by Order to do it till their <hi>Majeſties</hi> were Seated)</p>
+               <p n="7">7. Then the Biſhop of <hi>London</hi> making the <hi>Recognition,</hi> ſtanding near the Throne, and ſpeaking to the Peers and Houſe of <hi>Commons,</hi> telling them, That he Preſented to them KING <hi>William</hi> and QUEEN <hi>Mary,</hi> to be their Undoubted and Lawful KING and QUEEN; asking them if they would accept of them as the ſame, and to them Faithful and True Allegiance bear? Which concluded with three great Huzza's. Then the KING and QUEEN went to the <hi>Altar,</hi> and after their firſt Oblation, where they were preſented with the <hi>Regalia</hi> ſeverally by thoſe that brought them.</p>
+               <p>The Biſhops being placed near the <hi>Altar,</hi> the <hi>Litany</hi> was Sung by the Biſhops of St. <hi>Aſaph</hi> and <hi>Rangor.</hi>
+               </p>
+               <p n="8">8. <hi>The Epiſtle was taken out of the</hi> 1 Pet. 2. v. 13. to 17. <hi>And read by the Biſhop of</hi> Carliſle.</p>
+               <q>SUbmit your ſelves to every Ordinance of Man; for the Lord's Sake! whether it be to the King as Supream: Or unto Governors, as unto them that are ſent by him, for the Puniſhment of Evil doers, and for the Praiſe of them that do well. For ſo is the will of God, that with well-doing, you may put to Silence the Ignorance of fooliſh Men: As free, and not uſing your Liberty for a Cloak of Maliciouſneſs, but as the Servants of God. Honour all Men. Love the Brotherhood. Fear God. Honour the King.</q>
+               <p n="9">9. <hi>The Goſpel taken out of</hi> St. Mat. 22. v. 16. to 22. <hi>It was read by the Biſhop of</hi> St. Aſaph.</p>
+               <q>ANd they ſent unto him their Diſciples with the He<g ref="char:EOLhyphen"/>rodians, ſaying, Maſter, we know that thou art true, and teacheſt the way of God truly, neither careſt for any Man<g ref="char:punc">▪</g> for thou conſidereſt not the Perſon of Men. Tell us therefore, what thinkeſt thou? Is it Lawful to give Tribute unto <hi>Ceſar,</hi> or not? But Jeſus perceived their Wickedneſs, and ſaid, Why tempt ye me. Ye Hypocrites? Shew me the Tribute-Money: And they brought unto him a Peney. And he ſaid unto them, Whoſe is this Image and Superſcription? They ſaid unto him, <hi>Ceſers.</hi> Then ſaith he unto them, Render therefore unto <hi>Ceſar,</hi> the things which are <hi>Ceſar</hi>'s, and unto God the things which are God's. When they hear'd theſe words, they Marvelled, and left and him, and went their way.</q>
+               <p>10. Then Doctor <hi>Burnet,</hi> Biſhop of <hi>Salisbury</hi> went up into the Pulpit, it being Seated on the North Pillar of the <hi>Abby;</hi> and he rehearſing the Lord's Prayer, began his Ser<g ref="char:EOLhyphen"/>mon, 2 Sam. 23. 3. 4. <hi>The God of</hi> Iſarel <hi>ſaid, The Rock of</hi> Iſarel <hi>ſpake to me, He that ruleth over men muſt be juſt, ruling in the fear of God: And he ſhall be as the light of the morning, when the Sun riſeth, even a morning without Clouds; as the tender Graſs ſpringing out of the Earth by clear ſhining after rain.</hi> The Sermon being over, their Majeſties took the Oath as followeth.</p>
+               <sp>
+                  <stage>Then the Biſhop ſaid,</stage>
+                  <p>
+                     <hi>WIll you Solemnly promiſe and Swear to Govern the People of this Kingdom of</hi> England, <hi>and the Do<g ref="char:EOLhyphen"/>minions thereto belonging, according to the Statutes in Parliament agreed on, and the Laws and Cuſtoms of the ſame?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <p>I Solemnly promiſe ſo to do.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <hi>Will you to your power cauſe Law and Juſtice in Mer<g ref="char:EOLhyphen"/>cy to be Executed in all your Judgments?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <p>I will.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <hi>WIll you to the utmoſt of your power, maintain the Laws of God, the true profeſſion of the Goſpel, and the Proteſtant Reformed Religion, Eſtabliſhed by Law? And, will you preſerve unto the Biſhops and Clergy of the Realm, and to the Churches committed to their Charge, all ſuch Rights and Priviledges as by Law do or ſhall appertain unto them, or any of them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <stage>After this the King and Queen laying his and her Hand upon the Holy Goſpel, ſhall ſay, The things which I have here before promiſed, I will perform and keep. So help me God.</stage>
+               </sp>
+               <p>And after an <hi>Anthem</hi> Sung, they were Anointed with the Conſecrated Oyl; and then being conducted to their Chairs, and Seated on the Theatre adjoyning to the Throne, they were Seated on the Throne, and preſent<g ref="char:EOLhyphen"/>ed with the Spurs and Swords</p>
+               <p n="11">11. After which they inveſted them with the Imperial Robes Rings and Sc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pters; then the Crowns were ſet upon their Heads by the Biſhop of <hi>London,</hi> and aſſiſted with ſeveral other Biſhops, <hi>viz. York, Rocheſter, Winche<g ref="char:EOLhyphen"/>ſter,</hi> and <hi>Briſtol.</hi>
+               </p>
+               <p n="12">12. The K<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng and Queen being Crowned, the Nobility and Gentry round about them paid their homage to them on the Thrown.</p>
+               <p n="13">13. The Dukes and Dutcheſſes attending the King and Queen.</p>
+               <p n="14">14. The Houſe of Commans on the North-ſide of the <hi>Abby.</hi>
+               </p>
+               <p n="15">15. The Muſick.</p>
+               <p n="16">16. The two Chairs that the King and Queen ſat in to hear the Sermon. Then the Holy Bible was preſent<g ref="char:EOLhyphen"/>ed to Their <hi>Majeſties;</hi> after which, the King and Queen Kiſſed the Biſhops; then the King and Queen being En<g ref="char:EOLhyphen"/>throned the Biſhops Kiſſed their <hi>Majeſties</hi> Left Cheeks; the Temporal Lords did the ſame, and all touched their Crowns on their Heads: Then the Lord High-Steward threw about the <hi>Coronation Medals.</hi> Their <hi>Majeſties</hi> making their ſecond Oblation, and the King and Queen having received the Holy <hi>Sacrament,</hi> and the Biſhop read the final Prayers, Their <hi>Majeſties</hi> went in State into St. <hi>Edwards</hi> Chappel, and their being diveſted of their Imperial Palls, the whole Company, (except the Church of <hi>Weſtminſter)</hi> returned to <hi>Weſtminſter-Hall,</hi> Their <hi>Majeſties</hi> wearing their rich Crowns of State, and all the Nobility their Coronets on their Heads. And being entred into the Hall, were conducted to their ſeveral Tables to Dinner: <hi>Charles Dymock</hi> Eſq; Their <hi>Majeſties</hi> Champion, in compleat Armour, between the Lord High-Conſtable and Earl Marſhall all on Horſeback, performed the Ceremony of the Challenge, after the uſual manner.</p>
+            </div>
+            <div type="account">
+               <head>The Manner of what paſſed in the <hi>Banqueting-Houſe</hi> at <hi>White-hall,</hi> on <hi>Thurſday</hi> the <hi>11th.</hi> of <hi>May,</hi> 1689. At the delivery of the Crown of <hi>SCOTLAND.</hi>
+               </head>
+               <p>THe Earl of <hi>Argyle,</hi> Sir <hi>James Montgomery</hi> of <hi>Skel<g ref="char:EOLhyphen"/>morly,</hi> and Sir <hi>John Dolrymple</hi> of <hi>Staire,</hi> the Com<g ref="char:EOLhyphen"/>miſſioners ſent (by Poſt) by the Meeting of the Eſtates of <hi>Scotland,</hi> to offer Their Majeſties the Crown of that Kingdom; About three of the Clock met at the Council-Chamber, and from thence were conducted by Sir <hi>Charles Cotterel,</hi> Maſter of the Ceremonies, attended by moſt of the Nobility and Gentry of that Kingdom, who reſide in and about this place, to the <hi>Banqueting Houſe,</hi> where the King and Queen came, attended by many perſons of Quality, the Sword being carried before them by the Lord <hi>Cordroſs</hi> (and their Majeſties being placed on the Throne under a rich Canopy.)</p>
+               <p>In the laſt place the Coronation Oath was tendered to their Majeſties; which my Lord <hi>Argy<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> pronounced di<g ref="char:EOLhyphen"/>ſtinctly word by word, and their Majeſties repeated it af<g ref="char:EOLhyphen"/>ter him, holding up their Right Hands, according to the Cuſtom of taking Oaths in <hi>Scotland.</hi>
+               </p>
+               <div type="oath">
+                  <head>The <hi>Scotch</hi> OATH.</head>
+                  <sp>
+                     <p>
+                        <hi>WE</hi> William <hi>and</hi> Mary, <hi>King and Queen of</hi> Scotland <hi>Faithfully Promiſe and Swear, by this Our ſolemn Oath, in preſence of the Eternal God, that during the whole courſe of Our Life, we will ſerve the Eternal God, to the uttermoſt of Our power, according as he has required in his moſt ho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y Word, reveal'd and contain'd in the New and Old</hi> Teſtament, <hi>and according to the ſame Word ſhall maintain the True Religion of</hi> Chriſt Jeſus, <hi>the Preach<g ref="char:EOLhyphen"/>ing of his Holy Word, and the due and right Miniſtration of the Sacraments, now Received and Preached within the Realm of</hi> Scotland; <hi>and ſhall aboliſh and gain-ſtand all falſe Religion contrary to the ſame, and ſhall Rule the People committed to our Charge, according to the Will and Command of God, Revealed in his aforeſaid Word, and according to the Loveable Laws and Conſtititutions re<g ref="char:EOLhyphen"/>ceived in this Realm, no ways Repugnant to the ſaid Word of the Eternal God, and procure, to the utmoſt of Our power, to the</hi> Kirk <hi>of God, and whole Chriſtian People, true and perfect Peace in all time coming. That we ſhall preſerve and keep inviolated the Rights and Rents, with all juſt Priviledges of the Crown of</hi> Scotland, <hi>nei<g ref="char:EOLhyphen"/>ther ſhall we transfer nor alienate the ſame; that We ſhall forbid and repreſs in all Eſtates and Degrees, Relief, Oppreſſion, and all kind of Wrong. And we ſhall Com<g ref="char:EOLhyphen"/>mand and Procure that Juſtice and Equity in all Judg<g ref="char:EOLhyphen"/>ments be keept to all Perſons without Exception, as the</hi> Lord <hi>and</hi> Father <hi>of all</hi> Mercies <hi>ſhall be merciful to us. And we ſhall be careful to root out all</hi> Hereticks <hi>and Enemies to the true Worſhip of God, that ſhall be Con<g ref="char:EOLhyphen"/>victed by the true</hi> Kirk <hi>of God of the foreſaid Crimes, out of Our Lands and Empire of</hi> Scotland. <hi>And We faithfully affirm the things above Written by Our Solemn Oath.</hi>
+                     </p>
+                  </sp>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenced according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-ſtreet</hi> near <hi>Baynard</hi>'s <hi>C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtle.</hi> 1689-</p>
+         </div>
+      </back>
+   </text>
+</TEI>
